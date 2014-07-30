@@ -1,0 +1,9 @@
+## Interface: 40000
+## Title: TeamRating
+## Version: 1.1
+## Author: Gaffer
+## Notes: Announces team ratings after a successful arena match.
+## Dependencies: 
+## OptionalDeps: 
+## DefaultState: enabled 
+TeamRating.lua
